@@ -1,0 +1,15 @@
+{
+  "name": "node_request",
+  "version": "1.0.0",
+  "description": "this is my first project of node",
+  "main": "saral_clone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "readline-sync": "^1.4.9"
+  }
+}
